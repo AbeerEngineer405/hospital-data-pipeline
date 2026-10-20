@@ -1,0 +1,4 @@
+interaction_id,patient_id,channel,issue_type,interaction_date,resolution_status,rejection_reason
+4,,Email,Appointment,2026-10-24,Escalated,Missing patient_id
+13,11,Phone,Inquiry,bad-date,Pending,Invalid date
+19,37,Chat,Appointment,2026-10-01,Unknown,Invalid resolution status

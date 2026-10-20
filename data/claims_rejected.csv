@@ -1,0 +1,4 @@
+claim_id,appointment_id,patient_id,service_code,amount,claim_status,rejection_reason
+5,65,47,LAB,-100,Rejected,Negative amount
+10,86,28,,1303.31,Approved,Missing service code
+15,113,8,CONSULT,608.53,unknown,Invalid claim status

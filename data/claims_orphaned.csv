@@ -1,0 +1,4 @@
+claim_id,appointment_id,patient_id,service_code,amount,claim_status,rejection_reason
+60,11,28,CONSULT,1426.94,Submitted,Referenced appointment is not valid
+67,21,43,XRAY,197.76,Approved,Referenced appointment is not valid
+115,11,28,THERAPY,1115.07,Rejected,Referenced appointment is not valid

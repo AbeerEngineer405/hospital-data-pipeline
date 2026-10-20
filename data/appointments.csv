@@ -1,0 +1,152 @@
+appointment_id,patient_id,appointment_date,status
+1,8,2026-10-21,Scheduled
+2,18,2026-10-24,Completed
+3,9,2026-10-08,Scheduled
+4,48,2026-10-22,Scheduled
+5,28,2026-10-19,Scheduled
+6,6,2026-10-01,complete
+7,33,2026-10-08,Scheduled
+8,13,2026-10-18,No Show
+9,29,2026-10-08,Cancelled
+10,1,2026-10-26,Completed
+11,28,invalid-date,Cancelled
+12,10,2026-10-09,Completed
+13,22,2026-10-25,Scheduled
+14,25,2026-10-03,Scheduled
+15,23,2026-10-12,Cancelled
+16,,2026-10-26,No Show
+17,8,2026-10-18,No Show
+18,36,2026-10-03,Cancelled
+19,41,2026-10-27,Cancelled
+20,13,2026-10-19,Scheduled
+21,43,2026-10-02,Unknown
+22,19,2026-10-25,Scheduled
+23,15,2026-10-28,Scheduled
+24,18,2026-10-13,No Show
+25,24,2026-10-21,Completed
+26,23,2026-10-12,Completed
+27,18,2026-10-22,Scheduled
+28,41,2026-10-20,Completed
+29,47,2026-10-18,Completed
+30,30,2026-10-06,No Show
+31,41,2026-10-09,Completed
+32,21,2026-10-22,Scheduled
+33,3,2026-10-08,Cancelled
+34,18,2026-10-13,Scheduled
+35,37,2026-10-07,Cancelled
+36,42,2026-10-07,No Show
+37,42,2026-10-13,No Show
+38,17,2026-10-05,Completed
+39,48,2026-10-08,Cancelled
+40,38,2026-10-24,No Show
+41,38,2026-10-29,No Show
+42,15,2026-10-12,Completed
+43,32,2026-10-17,Scheduled
+44,4,2026-10-25,Scheduled
+45,41,2026-10-05,Completed
+46,44,2026-10-26,No Show
+47,5,2026-10-20,No Show
+48,39,2026-10-13,No Show
+49,17,2026-10-17,Scheduled
+50,47,2026-10-22,Scheduled
+51,35,2026-10-22,Cancelled
+52,42,2026-10-25,Cancelled
+53,19,2026-10-04,No Show
+54,30,2026-10-06,Scheduled
+55,47,2026-10-24,Cancelled
+56,49,2026-10-17,Completed
+57,7,2026-10-17,Cancelled
+58,41,2026-10-27,Completed
+59,24,2026-10-05,Completed
+60,50,2026-10-18,Scheduled
+61,21,2026-10-20,No Show
+62,8,2026-10-01,Cancelled
+63,20,2026-10-29,Completed
+64,16,2026-10-02,Scheduled
+65,47,2026-10-03,No Show
+66,5,2026-10-27,Completed
+67,43,2026-10-05,No Show
+68,11,2026-10-18,Cancelled
+69,39,2026-10-17,No Show
+70,35,2026-10-07,Completed
+71,20,2026-10-23,No Show
+72,42,2026-10-22,Cancelled
+73,34,2026-10-15,No Show
+74,16,2026-10-04,Completed
+75,22,2026-10-03,Scheduled
+76,36,2026-10-19,Completed
+77,15,2026-10-19,Scheduled
+78,46,2026-10-03,Scheduled
+79,5,2026-10-08,Scheduled
+80,22,2026-10-28,Scheduled
+81,16,2026-10-17,Cancelled
+82,32,2026-10-22,Completed
+83,9,2026-10-18,No Show
+84,31,2026-10-08,No Show
+85,7,2026-10-07,Scheduled
+86,28,2026-10-22,Cancelled
+87,27,2026-10-14,No Show
+88,47,2026-10-28,Scheduled
+89,42,2026-10-22,Scheduled
+90,26,2026-10-02,Cancelled
+91,7,2026-10-26,Completed
+92,13,2026-10-07,No Show
+93,28,2026-10-05,Completed
+94,30,2026-10-09,Completed
+95,5,2026-10-28,No Show
+96,36,2026-10-26,Scheduled
+97,42,2026-10-02,Scheduled
+98,49,2026-10-03,Completed
+99,27,2026-10-06,No Show
+100,14,2026-10-16,No Show
+101,4,2026-10-29,Completed
+102,1,2026-10-13,No Show
+103,30,2026-10-09,Cancelled
+104,45,2026-10-14,No Show
+105,13,2026-10-05,Cancelled
+106,4,2026-10-07,Scheduled
+107,21,2026-10-24,Scheduled
+108,38,2026-10-02,No Show
+109,34,2026-10-17,Completed
+110,33,2026-10-02,Scheduled
+111,12,2026-10-28,Scheduled
+112,5,2026-10-20,Completed
+113,8,2026-10-13,Completed
+114,39,2026-10-19,Scheduled
+115,6,2026-10-20,No Show
+116,38,2026-10-22,Cancelled
+117,17,2026-10-30,Completed
+118,46,2026-10-22,Cancelled
+119,17,2026-10-08,No Show
+120,43,2026-10-05,Cancelled
+121,21,2026-10-15,Scheduled
+122,30,2026-10-01,Scheduled
+123,35,2026-10-03,Completed
+124,17,2026-10-17,Completed
+125,23,2026-10-30,Scheduled
+126,16,2026-10-29,Cancelled
+127,11,2026-10-10,No Show
+128,35,2026-10-27,Cancelled
+129,42,2026-10-20,Scheduled
+130,36,2026-10-22,Cancelled
+131,43,2026-10-30,Scheduled
+132,9,2026-10-29,Cancelled
+133,7,2026-10-04,Completed
+134,19,2026-10-09,Completed
+135,22,2026-10-23,Completed
+136,41,2026-10-22,Cancelled
+137,32,2026-10-17,Cancelled
+138,4,2026-10-29,Scheduled
+139,28,2026-10-21,Cancelled
+140,1,2026-10-02,Cancelled
+141,9,2026-10-25,Cancelled
+142,48,2026-10-06,No Show
+143,46,2026-10-18,No Show
+144,1,2026-10-18,Scheduled
+145,45,2026-10-03,Completed
+146,3,2026-10-18,Cancelled
+147,36,2026-10-19,Completed
+148,9,2026-10-14,Scheduled
+149,24,2026-10-10,Scheduled
+150,23,2026-10-29,Completed
+1,8,2026-10-21,Scheduled

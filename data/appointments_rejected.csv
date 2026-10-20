@@ -1,0 +1,4 @@
+appointment_id,patient_id,appointment_date,status,rejection_reason
+11,28,invalid-date,Cancelled,Invalid date
+16,,2026-10-26,No Show,Missing patient_id
+21,43,2026-10-02,Unknown,Invalid appointment status
